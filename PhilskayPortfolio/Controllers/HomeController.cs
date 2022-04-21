@@ -45,8 +45,13 @@ namespace PhilskayPortfolio.Controllers
                     builder.HtmlBody = msg;
                     email.Body = builder.ToMessageBody();
                     SmtpClient smtp = new SmtpClient();
+<<<<<<< HEAD
                     smtp.Connect(_mailSettings.Host, _mailSettings.Port, MailKit.Security.SecureSocketOptions.StartTls);
                     smtp.Authenticate(_mailSettings.Username, _mailSettings.Password);
+=======
+                    smtp.Connect(_mailSettings.Host, _mailSettings.Port, MailKit.Security.SecureSocketOptions.None);
+
+>>>>>>> c6c0bd0e3580c6a52fc8e4a44dfe2ea363e31902
                     await smtp.SendAsync(email);
                     ViewBag.Message = "Thanks! Received your message, will get in touch.";
                     return View();
