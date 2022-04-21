@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "06u8RNisTqxBcEkTT/t+Kc/lUu2ZD+/usQGeLI0JiODeH09YIT1gp3I/nAivqDZ8QC5hVlKufsgVHSEqGts8FA==",
+  "dgSpecHash": "+mXF9adqdEtyR+VU3j7O/qkvMx1MCP2gVI/hO5Vqp4XmZLqXTzjK5SIr0z27XQRDxQ0h6QcEarQDcgNWec5k8Q==",
   "success": true,
-  "projectFilePath": "C:\\portfolio\\portfolio-website-\\PhilskayPortfolio\\PhilskayPortfolio.csproj",
+  "projectFilePath": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\PhilskayPortfolio.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PhilsKay\\.nuget\\packages\\mailkit\\3.2.0\\mailkit.3.2.0.nupkg.sha512",
     "C:\\Users\\PhilsKay\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",

@@ -4,6 +4,7 @@ using Microsoft.Extensions.Options;
 using MimeKit;
 using PhilskayPortfolio.Models;
 using System.Diagnostics;
+using System.Net.Sockets;
 
 namespace PhilskayPortfolio.Controllers
 {
@@ -44,13 +45,19 @@ namespace PhilskayPortfolio.Controllers
                     builder.HtmlBody = msg;
                     email.Body = builder.ToMessageBody();
                     SmtpClient smtp = new SmtpClient();
-                    smtp.Connect(_mailSettings.Host, _mailSettings.Port, MailKit.Security.SecureSocketOptions.Auto);
+                    smtp.Connect(_mailSettings.Host, _mailSettings.Port, MailKit.Security.SecureSocketOptions.StartTls);
                     smtp.Authenticate(_mailSettings.Username, _mailSettings.Password);
                     await smtp.SendAsync(email);
                     ViewBag.Message = "Thanks! Received your message, will get in touch.";
                     return View();
                 }
-                catch (System.Net.Mail.SmtpException) { 
+                catch (System.Net.Mail.SmtpException)
+                {
+                    ViewBag.Message = "Sorry Message could not be sent.";
+                    return View();
+                }
+                catch (SocketException) 
+                { 
                     ViewBag.Message = "Sorry Message could not be sent.";
                     return View();
                 }

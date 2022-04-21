@@ -337,11 +337,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\portfolio\\portfolio-website-\\PhilskayPortfolio\\PhilskayPortfolio.csproj",
+      "projectUniqueName": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\PhilskayPortfolio.csproj",
       "projectName": "PhilskayPortfolio",
-      "projectPath": "C:\\portfolio\\portfolio-website-\\PhilskayPortfolio\\PhilskayPortfolio.csproj",
+      "projectPath": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\PhilskayPortfolio.csproj",
       "packagesPath": "C:\\Users\\PhilsKay\\.nuget\\packages\\",
-      "outputPath": "C:\\portfolio\\portfolio-website-\\PhilskayPortfolio\\obj\\",
+      "outputPath": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PhilsKay\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -401,7 +401,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }
