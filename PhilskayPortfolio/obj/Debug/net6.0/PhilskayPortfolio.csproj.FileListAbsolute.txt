@@ -84,3 +84,29 @@ C:\GithuPortfolio\my-website\PhilskayPortfolio\obj\Debug\net6.0\refint\PhilskayP
 C:\GithuPortfolio\my-website\PhilskayPortfolio\obj\Debug\net6.0\PhilskayPortfolio.pdb
 C:\GithuPortfolio\my-website\PhilskayPortfolio\obj\Debug\net6.0\PhilskayPortfolio.genruntimeconfig.cache
 C:\GithuPortfolio\my-website\PhilskayPortfolio\obj\Debug\net6.0\ref\PhilskayPortfolio.dll
+C:\Users\danikay tech\portfolio\my-website\PhilskayPortfolio\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\danikay tech\portfolio\my-website\PhilskayPortfolio\bin\Debug\net6.0\appsettings.json
+C:\Users\danikay tech\portfolio\my-website\PhilskayPortfolio\bin\Debug\net6.0\PhilskayPortfolio.staticwebassets.runtime.json
+C:\Users\danikay tech\portfolio\my-website\PhilskayPortfolio\bin\Debug\net6.0\PhilskayPortfolio.exe
+C:\Users\danikay tech\portfolio\my-website\PhilskayPortfolio\bin\Debug\net6.0\PhilskayPortfolio.deps.json
+C:\Users\danikay tech\portfolio\my-website\PhilskayPortfolio\bin\Debug\net6.0\PhilskayPortfolio.runtimeconfig.json
+C:\Users\danikay tech\portfolio\my-website\PhilskayPortfolio\bin\Debug\net6.0\PhilskayPortfolio.dll
+C:\Users\danikay tech\portfolio\my-website\PhilskayPortfolio\bin\Debug\net6.0\PhilskayPortfolio.pdb
+C:\Users\danikay tech\portfolio\my-website\PhilskayPortfolio\obj\Debug\net6.0\PhilskayPortfolio.csproj.AssemblyReference.cache
+C:\Users\danikay tech\portfolio\my-website\PhilskayPortfolio\obj\Debug\net6.0\PhilskayPortfolio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danikay tech\portfolio\my-website\PhilskayPortfolio\obj\Debug\net6.0\PhilskayPortfolio.AssemblyInfoInputs.cache
+C:\Users\danikay tech\portfolio\my-website\PhilskayPortfolio\obj\Debug\net6.0\PhilskayPortfolio.AssemblyInfo.cs
+C:\Users\danikay tech\portfolio\my-website\PhilskayPortfolio\obj\Debug\net6.0\PhilskayPortfolio.csproj.CoreCompileInputs.cache
+C:\Users\danikay tech\portfolio\my-website\PhilskayPortfolio\obj\Debug\net6.0\PhilskayPortfolio.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\danikay tech\portfolio\my-website\PhilskayPortfolio\obj\Debug\net6.0\PhilskayPortfolio.RazorAssemblyInfo.cache
+C:\Users\danikay tech\portfolio\my-website\PhilskayPortfolio\obj\Debug\net6.0\PhilskayPortfolio.RazorAssemblyInfo.cs
+C:\Users\danikay tech\portfolio\my-website\PhilskayPortfolio\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\danikay tech\portfolio\my-website\PhilskayPortfolio\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\danikay tech\portfolio\my-website\PhilskayPortfolio\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\danikay tech\portfolio\my-website\PhilskayPortfolio\obj\Debug\net6.0\scopedcss\bundle\PhilskayPortfolio.styles.css
+C:\Users\danikay tech\portfolio\my-website\PhilskayPortfolio\obj\Debug\net6.0\scopedcss\projectbundle\PhilskayPortfolio.bundle.scp.css
+C:\Users\danikay tech\portfolio\my-website\PhilskayPortfolio\obj\Debug\net6.0\PhilskayPortfolio.dll
+C:\Users\danikay tech\portfolio\my-website\PhilskayPortfolio\obj\Debug\net6.0\refint\PhilskayPortfolio.dll
+C:\Users\danikay tech\portfolio\my-website\PhilskayPortfolio\obj\Debug\net6.0\PhilskayPortfolio.pdb
+C:\Users\danikay tech\portfolio\my-website\PhilskayPortfolio\obj\Debug\net6.0\PhilskayPortfolio.genruntimeconfig.cache
+C:\Users\danikay tech\portfolio\my-website\PhilskayPortfolio\obj\Debug\net6.0\ref\PhilskayPortfolio.dll

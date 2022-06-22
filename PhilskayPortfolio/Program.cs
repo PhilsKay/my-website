@@ -8,7 +8,6 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews();
 builder.Services.AddRazorPages();
 builder.Services.AddMvc();
-builder.Services.Configure<MailSettings>(builder.Configuration.GetSection("MailSettings"));
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

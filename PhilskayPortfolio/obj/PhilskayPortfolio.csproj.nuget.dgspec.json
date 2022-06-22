@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\PhilskayPortfolio.csproj": {}
+    "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\PhilskayPortfolio.csproj": {}
   },
   "projects": {
-    "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\PhilskayPortfolio.csproj": {
+    "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\PhilskayPortfolio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\PhilskayPortfolio.csproj",
+        "projectUniqueName": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\PhilskayPortfolio.csproj",
         "projectName": "PhilskayPortfolio",
-        "projectPath": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\PhilskayPortfolio.csproj",
-        "packagesPath": "C:\\Users\\PhilsKay\\.nuget\\packages\\",
-        "outputPath": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\obj\\",
+        "projectPath": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\PhilskayPortfolio.csproj",
+        "packagesPath": "C:\\Users\\danikay tech\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\PhilsKay\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\danikay tech\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -40,17 +40,9 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
-            "MailKit": {
-              "target": "Package",
-              "version": "[3.2.0, )"
-            },
             "Microsoft.AspNetCore.Razor.Runtime": {
               "target": "Package",
               "version": "[2.2.0, )"
-            },
-            "MimeKit": {
-              "target": "Package",
-              "version": "[3.2.0, )"
             }
           },
           "imports": [
@@ -71,7 +63,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }

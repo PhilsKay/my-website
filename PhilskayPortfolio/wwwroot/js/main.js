@@ -115,3 +115,14 @@
 	});
 
 })(jQuery);
+
+function SendMail() {
+	var params = {
+		from_name: document.getElementById("name").value,
+		email_id: document.getElementById("email").value,
+		message: document.getElementById("message").value
+	}
+	emailjs.send("service_t4spjxu", "template_y5xijfc", params).then(function (res) {
+		alertify.success("Thanks for reaching out, will get in touch shortly!");
+	})
+}

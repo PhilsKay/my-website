@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "hGiL41PGzBIybVJOcha84alH3cOumhxHskxWu4MqsXE=",
+  "Hash": "RLyPFgwhgdWsyDCt9VrQBx9fV50qcD9ywRpEy0PKZno=",
   "Source": "PhilskayPortfolio",
   "BasePath": "_content/PhilskayPortfolio",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "PhilskayPortfolio\\wwwroot",
       "Source": "PhilskayPortfolio",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\obj\\Debug\\net6.0\\scopedcss\\bundle\\PhilskayPortfolio.styles.css",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\obj\\Debug\\net6.0\\scopedcss\\bundle\\PhilskayPortfolio.styles.css",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "PhilskayPortfolio.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\obj\\Debug\\net6.0\\scopedcss\\bundle\\PhilskayPortfolio.styles.css"
+      "OriginalItemSpec": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\obj\\Debug\\net6.0\\scopedcss\\bundle\\PhilskayPortfolio.styles.css"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\PhilskayPortfolio.bundle.scp.css",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\PhilskayPortfolio.bundle.scp.css",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "PhilskayPortfolio.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\PhilskayPortfolio.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\PhilskayPortfolio.bundle.scp.css"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\css\\site.css",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\css\\style.css",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\css\\style.css",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "css/style.css",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\css\\style.css"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\favicon.ico",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\icon\\apple-touch-icon.png",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\icon\\apple-touch-icon.png",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "icon/apple-touch-icon.png",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\icon\\apple-touch-icon.png"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\icon\\favicon.png",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\icon\\favicon.png",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "icon/favicon.png",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\icon\\favicon.png"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\img\\broTobi.png",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\img\\broTobi.png",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "img/broTobi.png",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\img\\broTobi.png"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\img\\counters-bg.jpg",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\img\\counters-bg.jpg",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "img/counters-bg.jpg",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\img\\counters-bg.jpg"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\img\\Dark.jpg",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\img\\Dark.jpg",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "img/Dark.jpg",
       "AssetKind": "All",
@@ -187,10 +187,27 @@
       "OriginalItemSpec": "wwwroot\\img\\Dark.jpg"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\img\\intro-bg - Copy.jpg",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\img\\finance-news.webp",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "BasePath": "_content/PhilskayPortfolio",
+      "RelativePath": "img/finance-news.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\finance-news.webp"
+    },
+    {
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\img\\intro-bg - Copy.jpg",
+      "SourceId": "PhilskayPortfolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "img/intro-bg - Copy.jpg",
       "AssetKind": "All",
@@ -204,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\img\\intro-bg - Copy.jpg"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\img\\intro-bg.jpg",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\img\\intro-bg.jpg",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "img/intro-bg.jpg",
       "AssetKind": "All",
@@ -221,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\img\\intro-bg.jpg"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\img\\journey.jpg",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\img\\journey.jpg",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "img/journey.jpg",
       "AssetKind": "All",
@@ -238,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\img\\journey.jpg"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\img\\know2.jpg",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\img\\know2.jpg",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "img/know2.jpg",
       "AssetKind": "All",
@@ -255,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\img\\know2.jpg"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\img\\myWork2.png",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\img\\myWork2.png",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "img/myWork2.png",
       "AssetKind": "All",
@@ -272,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\img\\myWork2.png"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\img\\overlay-bg.jpg",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\img\\overlay-bg.jpg",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "img/overlay-bg.jpg",
       "AssetKind": "All",
@@ -289,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\img\\overlay-bg.jpg"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\img\\Philip (2).jpg",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\img\\Philip (2).jpg",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "img/Philip (2).jpg",
       "AssetKind": "All",
@@ -306,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Philip (2).jpg"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\img\\post-3.jpg",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\img\\post-3.jpg",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "img/post-3.jpg",
       "AssetKind": "All",
@@ -323,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\img\\post-3.jpg"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\img\\quiz1.png",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\img\\quiz1.png",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "img/quiz1.png",
       "AssetKind": "All",
@@ -340,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\img\\quiz1.png"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\img\\Roy1.png",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\img\\Roy1.png",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "img/Roy1.png",
       "AssetKind": "All",
@@ -357,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Roy1.png"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\img\\work-3.jpg",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\img\\work-3.jpg",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "img/work-3.jpg",
       "AssetKind": "All",
@@ -374,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\img\\work-3.jpg"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\js\\main.js",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\js\\main.js",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "js/main.js",
       "AssetKind": "All",
@@ -391,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\js\\main.js"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\js\\site.js",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -408,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\animate\\animate.css",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\animate\\animate.css",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "lib/animate/animate.css",
       "AssetKind": "All",
@@ -425,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\animate\\animate.css"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\animate\\animate.min.css",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\animate\\animate.min.css",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "lib/animate/animate.min.css",
       "AssetKind": "All",
@@ -442,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\animate\\animate.min.css"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\bootstrap\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\bootstrap\\css\\bootstrap.css",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "lib/bootstrap/css/bootstrap.css",
       "AssetKind": "All",
@@ -459,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "lib/bootstrap/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -476,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css.map",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "lib/bootstrap/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -493,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -510,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -527,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -544,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -561,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -578,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -595,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -612,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -629,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -646,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -663,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -680,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -697,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -714,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -731,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -748,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -765,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -782,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -799,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -816,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -833,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -850,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -867,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -884,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -901,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -918,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -935,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -952,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -969,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -986,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -1003,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -1020,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -1037,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1054,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1071,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1088,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1105,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -1122,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1139,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1156,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1173,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1190,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1207,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1224,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1241,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\bootstrap\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\bootstrap\\js\\bootstrap.js",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "lib/bootstrap/js/bootstrap.js",
       "AssetKind": "All",
@@ -1258,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "lib/bootstrap/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1275,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js.map",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "lib/bootstrap/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1292,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1309,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\counterup\\jquery.counterup.js",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\counterup\\jquery.counterup.js",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "lib/counterup/jquery.counterup.js",
       "AssetKind": "All",
@@ -1326,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\counterup\\jquery.counterup.js"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\counterup\\jquery.counterup.min.js",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\counterup\\jquery.counterup.min.js",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "lib/counterup/jquery.counterup.min.js",
       "AssetKind": "All",
@@ -1343,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\counterup\\jquery.counterup.min.js"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\counterup\\jquery.waypoints.min.js",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\counterup\\jquery.waypoints.min.js",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "lib/counterup/jquery.waypoints.min.js",
       "AssetKind": "All",
@@ -1360,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\counterup\\jquery.waypoints.min.js"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\easing\\easing.js",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\easing\\easing.js",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "lib/easing/easing.js",
       "AssetKind": "All",
@@ -1377,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\easing\\easing.js"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\easing\\easing.min.js",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\easing\\easing.min.js",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "lib/easing/easing.min.js",
       "AssetKind": "All",
@@ -1394,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\easing\\easing.min.js"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\font-awesome\\css\\font-awesome.css",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\font-awesome\\css\\font-awesome.css",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "lib/font-awesome/css/font-awesome.css",
       "AssetKind": "All",
@@ -1411,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\css\\font-awesome.css"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\font-awesome\\css\\font-awesome.min.css",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\font-awesome\\css\\font-awesome.min.css",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "lib/font-awesome/css/font-awesome.min.css",
       "AssetKind": "All",
@@ -1428,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\css\\font-awesome.min.css"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\font-awesome\\fonts\\FontAwesome.otf",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\font-awesome\\fonts\\FontAwesome.otf",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "lib/font-awesome/fonts/FontAwesome.otf",
       "AssetKind": "All",
@@ -1445,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\fonts\\FontAwesome.otf"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\font-awesome\\fonts\\fontawesome-webfont.eot",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\font-awesome\\fonts\\fontawesome-webfont.eot",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "lib/font-awesome/fonts/fontawesome-webfont.eot",
       "AssetKind": "All",
@@ -1462,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\fonts\\fontawesome-webfont.eot"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\font-awesome\\fonts\\fontawesome-webfont.svg",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\font-awesome\\fonts\\fontawesome-webfont.svg",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "lib/font-awesome/fonts/fontawesome-webfont.svg",
       "AssetKind": "All",
@@ -1479,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\fonts\\fontawesome-webfont.svg"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\font-awesome\\fonts\\fontawesome-webfont.ttf",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\font-awesome\\fonts\\fontawesome-webfont.ttf",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "lib/font-awesome/fonts/fontawesome-webfont.ttf",
       "AssetKind": "All",
@@ -1496,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\fonts\\fontawesome-webfont.ttf"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\font-awesome\\fonts\\fontawesome-webfont.woff",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\font-awesome\\fonts\\fontawesome-webfont.woff",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "lib/font-awesome/fonts/fontawesome-webfont.woff",
       "AssetKind": "All",
@@ -1513,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\fonts\\fontawesome-webfont.woff"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\font-awesome\\fonts\\fontawesome-webfont.woff2",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\font-awesome\\fonts\\fontawesome-webfont.woff2",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "lib/font-awesome/fonts/fontawesome-webfont.woff2",
       "AssetKind": "All",
@@ -1530,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\fonts\\fontawesome-webfont.woff2"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\ionicons\\css\\ionicons.css",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\ionicons\\css\\ionicons.css",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "lib/ionicons/css/ionicons.css",
       "AssetKind": "All",
@@ -1547,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\ionicons\\css\\ionicons.css"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\ionicons\\css\\ionicons.min.css",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\ionicons\\css\\ionicons.min.css",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "lib/ionicons/css/ionicons.min.css",
       "AssetKind": "All",
@@ -1564,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\ionicons\\css\\ionicons.min.css"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\ionicons\\fonts\\ionicons.eot",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\ionicons\\fonts\\ionicons.eot",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "lib/ionicons/fonts/ionicons.eot",
       "AssetKind": "All",
@@ -1581,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\ionicons\\fonts\\ionicons.eot"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\ionicons\\fonts\\ionicons.svg",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\ionicons\\fonts\\ionicons.svg",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "lib/ionicons/fonts/ionicons.svg",
       "AssetKind": "All",
@@ -1598,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\ionicons\\fonts\\ionicons.svg"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\ionicons\\fonts\\ionicons.ttf",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\ionicons\\fonts\\ionicons.ttf",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "lib/ionicons/fonts/ionicons.ttf",
       "AssetKind": "All",
@@ -1615,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\ionicons\\fonts\\ionicons.ttf"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\ionicons\\fonts\\ionicons.woff",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\ionicons\\fonts\\ionicons.woff",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "lib/ionicons/fonts/ionicons.woff",
       "AssetKind": "All",
@@ -1632,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\ionicons\\fonts\\ionicons.woff"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1649,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1666,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1683,10 +1700,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\jquery\\jquery.min.js",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\jquery\\jquery.min.js",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "lib/jquery/jquery.min.js",
       "AssetKind": "All",
@@ -1700,10 +1717,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\jquery.min.js"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\jquery\\jquery-migrate.min.js",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\jquery\\jquery-migrate.min.js",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "lib/jquery/jquery-migrate.min.js",
       "AssetKind": "All",
@@ -1717,10 +1734,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\jquery-migrate.min.js"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -1734,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1751,10 +1768,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1768,10 +1785,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1785,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1802,10 +1819,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1819,10 +1836,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1836,10 +1853,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1853,10 +1870,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -1870,10 +1887,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\lightbox\\css\\lightbox.css",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\lightbox\\css\\lightbox.css",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "lib/lightbox/css/lightbox.css",
       "AssetKind": "All",
@@ -1887,10 +1904,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\lightbox\\css\\lightbox.css"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\lightbox\\css\\lightbox.min.css",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\lightbox\\css\\lightbox.min.css",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "lib/lightbox/css/lightbox.min.css",
       "AssetKind": "All",
@@ -1904,10 +1921,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\lightbox\\css\\lightbox.min.css"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\lightbox\\images\\close.png",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\lightbox\\images\\close.png",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "lib/lightbox/images/close.png",
       "AssetKind": "All",
@@ -1921,10 +1938,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\lightbox\\images\\close.png"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\lightbox\\images\\loading.gif",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\lightbox\\images\\loading.gif",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "lib/lightbox/images/loading.gif",
       "AssetKind": "All",
@@ -1938,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\lightbox\\images\\loading.gif"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\lightbox\\images\\next.png",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\lightbox\\images\\next.png",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "lib/lightbox/images/next.png",
       "AssetKind": "All",
@@ -1955,10 +1972,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\lightbox\\images\\next.png"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\lightbox\\images\\prev.png",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\lightbox\\images\\prev.png",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "lib/lightbox/images/prev.png",
       "AssetKind": "All",
@@ -1972,10 +1989,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\lightbox\\images\\prev.png"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\lightbox\\js\\lightbox.js",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\lightbox\\js\\lightbox.js",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "lib/lightbox/js/lightbox.js",
       "AssetKind": "All",
@@ -1989,10 +2006,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\lightbox\\js\\lightbox.js"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\lightbox\\js\\lightbox.min.js",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\lightbox\\js\\lightbox.min.js",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "lib/lightbox/js/lightbox.min.js",
       "AssetKind": "All",
@@ -2006,10 +2023,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\lightbox\\js\\lightbox.min.js"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\lightbox\\links.php",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\lightbox\\links.php",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "lib/lightbox/links.php",
       "AssetKind": "All",
@@ -2023,10 +2040,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\lightbox\\links.php"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\owlcarousel\\assets\\ajax-loader.gif",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "lib/owlcarousel/assets/ajax-loader.gif",
       "AssetKind": "All",
@@ -2040,10 +2057,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\assets\\ajax-loader.gif"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.css",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "lib/owlcarousel/assets/owl.carousel.css",
       "AssetKind": "All",
@@ -2057,10 +2074,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.css"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "lib/owlcarousel/assets/owl.carousel.min.css",
       "AssetKind": "All",
@@ -2074,10 +2091,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.css",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "lib/owlcarousel/assets/owl.theme.default.css",
       "AssetKind": "All",
@@ -2091,10 +2108,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.css"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "lib/owlcarousel/assets/owl.theme.default.min.css",
       "AssetKind": "All",
@@ -2108,10 +2125,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.css",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "lib/owlcarousel/assets/owl.theme.green.css",
       "AssetKind": "All",
@@ -2125,10 +2142,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.css"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "lib/owlcarousel/assets/owl.theme.green.min.css",
       "AssetKind": "All",
@@ -2142,10 +2159,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\owlcarousel\\assets\\owl.video.play.png",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "lib/owlcarousel/assets/owl.video.play.png",
       "AssetKind": "All",
@@ -2159,10 +2176,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\assets\\owl.video.play.png"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\owlcarousel\\LICENSE",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\owlcarousel\\LICENSE",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "lib/owlcarousel/LICENSE",
       "AssetKind": "All",
@@ -2176,10 +2193,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\LICENSE"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\owlcarousel\\owl.carousel.js",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\owlcarousel\\owl.carousel.js",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "lib/owlcarousel/owl.carousel.js",
       "AssetKind": "All",
@@ -2193,10 +2210,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\owl.carousel.js"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\owlcarousel\\owl.carousel.min.js",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\owlcarousel\\owl.carousel.min.js",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "lib/owlcarousel/owl.carousel.min.js",
       "AssetKind": "All",
@@ -2210,10 +2227,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\owl.carousel.min.js"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\popper\\popper.min.js",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\popper\\popper.min.js",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "lib/popper/popper.min.js",
       "AssetKind": "All",
@@ -2227,10 +2244,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper\\popper.min.js"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\popper\\popper.min.js.map.json",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\popper\\popper.min.js.map.json",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "lib/popper/popper.min.js.map.json",
       "AssetKind": "All",
@@ -2244,10 +2261,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper\\popper.min.js.map.json"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\typed\\typed.js",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\typed\\typed.js",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "lib/typed/typed.js",
       "AssetKind": "All",
@@ -2261,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\typed\\typed.js"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\typed\\typed.min.js",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\typed\\typed.min.js",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "lib/typed/typed.min.js",
       "AssetKind": "All",
@@ -2278,10 +2295,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\typed\\typed.min.js"
     },
     {
-      "Identity": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\typed\\typed.min.js.map",
+      "Identity": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\lib\\typed\\typed.min.js.map",
       "SourceId": "PhilskayPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\GithuPortfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\danikay tech\\portfolio\\my-website\\PhilskayPortfolio\\wwwroot\\",
       "BasePath": "_content/PhilskayPortfolio",
       "RelativePath": "lib/typed/typed.min.js.map",
       "AssetKind": "All",

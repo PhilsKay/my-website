@@ -1,53 +1,4 @@
-﻿<!--<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>@ViewData["Title"] - PhilskayPortfolio</title>
-    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
-    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
-    <link rel="stylesheet" href="~/PhilskayPortfolio.styles.css" asp-append-version="true" />
-</head>
-<body>
-    <header>
-        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
-            <div class="container-fluid">
-                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">PhilskayPortfolio</a>
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
-                        aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
-                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
-                    <ul class="navbar-nav flex-grow-1">
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-        </nav>
-    </header>
-    <div class="container">
-        <main role="main" class="pb-3">
-            @RenderBody()
-        </main>
-    </div>
-
-    <footer class="border-top footer text-muted">
-        <div class="container">
-            &copy; 2022 - PhilskayPortfolio - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
-        </div>
-    </footer>
-    <script src="~/lib/jquery/dist/jquery.min.js"></script>
-    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
-    <script src="~/js/site.js" asp-append-version="true"></script>
-    @await RenderSectionAsync("Scripts", required: false)
-</body>
-</html>-->
-@model PhilskayPortfolio.Models.ContactForm;
+﻿@model PhilskayPortfolio.Models.ContactForm;
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -75,6 +26,19 @@
 
   <!-- Main Stylesheet File -->
   <link href="~/css/style.css" rel="stylesheet">
+  <!--Alertify-->
+  <!-- Bootstrap theme -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/alertifyjs@1.13.1/build/css/alertify.min.css"/>
+
+<!-- Emailjs cdn -->
+      <script type="text/javascript"
+        src="https://cdn.jsdelivr.net/npm/@@emailjs/browser@3/dist/email.min.js">
+</script>
+<script type="text/javascript">
+   (function(){
+      emailjs.init("D2jKnHPqRwZkN7ri3");
+   })();
+</script>
 
 </head>
 
@@ -126,7 +90,10 @@
           <h1 class="intro-title mb-4">I am Kayode Philip</h1>
           <p class="intro-subtitle"><span class="text-slider-items">Programming Tutor,Web Developer,Backend Developer,Database Developer,API Developer</span><strong class="text-slider"></strong></p>
           <!-- <p class="pt-3"><a class="btn btn-primary btn js-scroll px-4" href="#about" role="button">Learn More</a></p> -->
-        </div>
+       
+          <!--Download CV Button-->
+          <a class="btn btn-primary p-2 ">Download CV</a>
+      </div>
       </div>
     </div>
   </div>
@@ -148,8 +115,8 @@
                   <div class="col-sm-6 col-md-7">
                     <div class="about-info">
                       <p><span class="title-s">Name: </span> <span>Kayode Philip</span></p>
-                      <p><span class="title-s">Profile: </span> <span>Backend Developer</span></p>
-                      <p><span class="title-s">Email: </span> <span>philipinhokayode@gmail.com</span></p>
+                      <p><span class="title-s">Profile: </span> <span>dotNET Developer</span></p>
+                      <p><span class="title-s">Email: </span> <span>philskay97@gmail.com</span></p>
                       <p><span class="title-s">Phone: </span> <span>+2348053916863</span></p>
                     </div>
                   </div>
@@ -161,24 +128,46 @@
                     <div class="progress-bar" role="progressbar" style="width: 85%;" aria-valuenow="85" aria-valuemin="0"
                       aria-valuemax="100"></div>
                   </div>
+
                   <span>ASP.NET Core(MVC)</span> <span class="pull-right">75%</span>
                   <div class="progress">
                     <div class="progress-bar" role="progressbar" style="width: 75%" aria-valuenow="75" aria-valuemin="0"
                       aria-valuemax="100"></div>
                   </div>
+
                   <span>ASP.NET WebAPI</span> <span class="pull-right">70%</span>
                   <div class="progress">
                     <div class="progress-bar" role="progressbar" style="width: 70%" aria-valuenow="70" aria-valuemin="0"
                       aria-valuemax="100"></div>
                   </div>
+
                   <span>SQL</span> <span class="pull-right">80%</span>
                   <div class="progress">
                     <div class="progress-bar" role="progressbar" style="width: 80%" aria-valuenow="80" aria-valuemin="0"
                       aria-valuemax="100"></div>
                   </div>
-                  <span>HTML/CSS</span> <span class="pull-right">55%</span>
+
+                  <span>HTML/CSS</span> <span class="pull-right">70%</span>
                   <div class="progress">
-                    <div class="progress-bar" role="progressbar" style="width: 55%" aria-valuenow="55" aria-valuemin="0"
+                    <div class="progress-bar" role="progressbar" style="width: 70%" aria-valuenow="65" aria-valuemin="0"
+                      aria-valuemax="100"></div>
+                  </div>
+
+                  <span>JavaScript</span> <span class="pull-right">65%</span>
+                  <div class="progress">
+                    <div class="progress-bar" role="progressbar" style="width: 65%" aria-valuenow="65" aria-valuemin="0"
+                      aria-valuemax="100"></div>
+                  </div>
+
+                  <span>Git</span> <span class="pull-right">95%</span>
+                  <div class="progress">
+                    <div class="progress-bar" role="progressbar" style="width: 95%" aria-valuenow="95" aria-valuemin="0"
+                      aria-valuemax="100"></div>
+                  </div> 
+
+                  <span>Azure</span> <span class="pull-right">85%</span>
+                  <div class="progress">
+                    <div class="progress-bar" role="progressbar" style="width: 85%" aria-valuenow="85" aria-valuemin="0"
                       aria-valuemax="100"></div>
                   </div>
                 </div>
@@ -191,15 +180,28 @@
                     </h5>
                   </div>
                   <p class="lead">
-                    Self-motivated backend web developer with 1+ year of experience coding websites that solve business
-                    problems. Addition of improved logical functionalities and databases.
+                   A Systems Engineering undergraduate who is passionate 
+                   about solving problems. An aspiring software engineer with
+                   a passion for developing innovative programs that expedite 
+                   the efficiency and effectiveness of organisational success. 
+                  <br />
+                    Possesses the eagerness about technology and writing code 
+                   to create systems that are reliable and user-friendly with ability 
+                   to understand and integrate into a new system/code base.
+                   
                   </p>
                   <p class="lead">
-                    I believe consistency is the key which has granted me more chances to progress by adding to my skill level.
-                    I learn and work with other developers to function efficiently.
+                   Ambitious leader who has the proven ability to motivated, 
+                   educated, and managed in a team of professionals to build 
+                   software programs and effectively track changes. 
                   </p>
                   <p class="lead">
-                    I will appreciate to work with you or in your team to acheive common goals for better development.
+                   Confident communicator, strategic thinker, 
+                   and innovative creator to develop software that is customised to 
+                   meet a company’s organisational needs, highlight 
+                   their core competencies, and further their success. 
+                   Dedicated, enthusiastic and loyal. Meticulous researcher, 
+                   analyst, strategic thinker. Proactive with a focus on solutions.
                   </p>
                 </div>
               </div>
@@ -438,16 +440,16 @@
         </div>
         <div class="col-md-4">
           <div class="work-box">
-            <a href="" data-lightbox="gallery-mf">
+            <a href="https://philnancenews.herokuapp.com/" target="_blank">
               <div class="work-img">
-                <img src="img/work-3.jpg" alt="" class="img-fluid">
+                <img src="~/img/finance-news.webp" alt="" class="img-fluid">
               </div>
               <div class="work-content">
                 <div class="row">
                   <div class="col-sm-8">
-                    <h2 class="w-title">Mavrito Lana Dere</h2>
+                    <h2 class="w-title">Finance News</h2>
                     <div class="w-more">
-                      <span class="w-ctegory">Web Development</span> / <span class="w-date">Feb. 2022</span>
+                      <span class="w-ctegory">Web Development</span> / <span class="w-date">May. 2022</span>
                     </div>
                   </div>
                   <div class="col-sm-4">
@@ -632,7 +634,7 @@
                     </h5>
                   </div>
                   <div>
-                      <form asp-action="Index" method="post" role="form" class="contactForm">
+                      <form action="javaScript:SendMail()"  role="form" class="contactForm">
                           @if(ViewBag.Message != null)
                            {
                                 <div class="alert alert-success">@ViewBag.Message</div>               
@@ -651,15 +653,13 @@
                           </div>
                           
                         </div>
-                        <div class="col-md-12 mb-3">
-                            <div class="form-group">
-                              <input type="text" class="form-control" asp-for="Subject" required name="subject" id="subject" placeholder="Subject" data-rule="minlen:4" data-msg="Please enter at least 8 chars of subject" />
-                              <span asp-validation-for="Subject" class="text-danger"></span>
-                            </div>
-                        </div>
+                       
                         <div class="col-md-12 mb-3">
                           <div class="form-group">
-                            <textarea class="form-control" name="message" asp-for="Message" required rows="5" data-rule="required" data-msg="Please write something for us" placeholder="Message"></textarea>
+                            <textarea class="form-control" name="message" asp-for="Message" required rows="5" 
+                            data-rule="required" id="message" data-msg="Please write something for us" 
+                            placeholder="Message">
+                        </textarea>
                             <span asp-validation-for="Message" class="text-danger"></span>
                           </div>
                         </div>
@@ -736,12 +736,11 @@
   <script src="~/lib/owlcarousel/owl.carousel.min.js"></script>
   <script src="~/lib/lightbox/js/lightbox.min.js"></script>
   <script src="~/lib/typed/typed.min.js"></script>
-
-
+  <!-- Alertify JavaScript -->
+<script src="https://cdn.jsdelivr.net/npm/alertifyjs@1.13.1/build/alertify.min.js"></script>
 
   <!-- Template Main Javascript File -->
   <script src="~/js/main.js"></script>
-
   <script src="~/js/site.js" asp-append-version="true"></script>
     @await RenderSectionAsync("Scripts", required: false)
 </body>
@@ -749,6 +748,7 @@
 @section Scripts {
     @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
 }
+
 </html>
   
 
